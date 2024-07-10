@@ -1,5 +1,7 @@
 # PiRFtoIR
 
+These are notes for allowing an RF device (in this case a projector screen) to be controlled by an IR remote (such as Harmony remote) by using a Raspberry Pi as an intermediary.
+
 --------------------------------------------------------
 /home/pi/.bashrc
 --------------------------------------------------------
